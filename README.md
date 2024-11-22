@@ -34,12 +34,13 @@ This repo was just reamped to suit an Anime-centric community. All original cred
 + [InukaAsith](https://github.com/InukaAsith) : MEMES, INLINE ETC MODULES 
 + [AyraHikari](https://github.com/AyraHikari): FED MODULE
 + [Peaktogoo](https://github.com/peaktogoo) : FED MODULE
++ + [AKIRA](https://github.com/peaktogoo) : OWNER/DEV
 
 ╘═━「 Any other authorship/credits can be seen through the commits. 」
 
 [![forthebadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)
 
-The Support group can be reached out to at [Programmer • Support](https://telegram.dog/Besties_XD) Or [Neko Support (Github)](https://github.com/Awesome-Prince/NekoRobot-3/discussions/15), where you can ask for help about [NekoRobot](https://telegram.dog/NekoCuteBot), discover/request new features, report bugs, and stay in the loop whenever a new update is available. 
+The Support group can be reached out to at [Programmer • Support](https://telegram.dog/apeX_MainChat) Or [Neko Support (Github)](https://github.com/Awesome-Prince/NekoRobot-3/discussions/15), where you can ask for help about [NekoRobot](https://telegram.dog/NekoCuteBot), discover/request new features, report bugs, and stay in the loop whenever a new update is available. 
 
 <details>
 	<summary>Deploy Options</summary>
